@@ -15,6 +15,8 @@ Installation Instructions
 - Install the AppleScript Folder Action `stabilize_flux360.scpt` on folder `photobooth-slideshow-movie`
 - Run the script `make_slideshow_movie.sh` in the background
 
+Hint: Folder Action Scripts typically go in `/Library/Scripts/Folder Action Scripts/`.
+
 Credits
 -------
 
