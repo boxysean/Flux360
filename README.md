@@ -5,7 +5,7 @@
      \___  /   |_______ \______/ /___/\  \/______  /\_____  / \_____  /
          \/            \/              \_/       \/       \/        \/ 
 
-A modern photobooth for your DIY auction.
+A modern photobooth for your DIY auction. [See it in action!!!](https://www.youtube.com/watch?v=wkyxipeaRLw)
 
 Installation Instructions
 -------------------------
